@@ -62,14 +62,13 @@ The chatbot runs locally with a simple web interface.
 
 ---
 
-⚠️ **Disclaimer:**  
+**Disclaimer:**  
 This project is created **strictly for educational and research purposes**.  
 - The fine-tuned model is based on **OpenAI's GPT-2** and uses **Hugging Face Transformers**.  
 - The dataset was collected and modified solely for **academic learning**.  
 - **No commercial use is intended.**  
 - All rights to the original GPT-2 model belong to **OpenAI**.
 
-- 
 ### Run Locally:
 ```bash
 # 1. Install dependencies
